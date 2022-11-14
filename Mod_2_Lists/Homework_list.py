@@ -73,4 +73,3 @@
 # size = int(input('Enter the amount of checked films: '))
 # list_1 = favourite_films(size, films)
 # print(f'Your list of lovely films: {list_to_str(list_1)}')
-
