@@ -151,4 +151,14 @@
 #
 # print(quick_sort([7,6,10,5,9,8,7,3,4]))
 #
+#selection sort realization
+# def selection_sort(my_list):
+#     for i_mn in range(len(my_list)):
+#         for curr in range(i_mn,len(my_list)):
+#             if my_list[curr] < my_list[i_mn]:
+#                 my_list[curr], my_list[i_mn] = my_list[i_mn], my_list[curr]
 #
+# nums = [4, 9, 7, 6, 3, 2]
+#
+# selection_sort(nums)
+# print(nums)
